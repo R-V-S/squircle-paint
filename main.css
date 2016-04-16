@@ -18,13 +18,6 @@ body,html{
   box-shadow:inset 0 0 100px #c5ccc5;
 }
 
-#canvas-bg{
-  background:url(backgrounds/old_paper6.jpg) repeat; /* http://thedigitalyardsale.com/freebies/7-17 */
-  opacity:0.2;
-  width:100%;
-  height:100%;
-}
-
 .circle{
   position:fixed;
   width:400px;
