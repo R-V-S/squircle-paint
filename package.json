@@ -1,0 +1,19 @@
+{
+  "name": "squircle-paint",
+  "version": "0.2.0",
+  "description": "A silly little app where you can draw with squircles. It lays down randomly sized, rounded divs of the color of your choosing onto the canvas.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-V-S/squircle-paint.git"
+  },
+  "author": "R.V.S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/R-V-S/squircle-paint/issues"
+  },
+  "homepage": "https://github.com/R-V-S/squircle-paint#readme"
+}
